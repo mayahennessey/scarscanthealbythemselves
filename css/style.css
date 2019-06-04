@@ -89,8 +89,8 @@ ol {
 }
 
 .spad {
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .sp-pad {
@@ -367,7 +367,7 @@ ol {
 }
 
 .fact-box .fact-content i {
-	color: #d3d3d3;
+	color: #868686;
 	font-size: 45px;
 	line-height: 45px;
 	display: block;
@@ -508,7 +508,7 @@ ol {
 .icon-box i {
 	display: block;
 	font-size: 50px;
-	color: #d3d3d3;
+	color: #868686;
 	margin-bottom: 10px;
 }
 
